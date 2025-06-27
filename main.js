@@ -63,3 +63,6 @@ function geraSenha() {
     }
     campoSenha.value = senha;
 }
+function classificaSenha(){
+
+}
